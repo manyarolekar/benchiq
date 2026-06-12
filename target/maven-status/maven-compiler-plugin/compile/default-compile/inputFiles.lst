@@ -1,0 +1,10 @@
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\BenchmanagerApplication.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\controller\BenchController.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\CorsConfig.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\model\Allocation.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\model\Employee.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\model\Project.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\repository\AllocationRepository.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\repository\EmployeeRepository.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\repository\ProjectRepository.java
+C:\Users\manya\OneDrive\Desktop\benchmanager\src\main\java\com\benchsystem\benchmanager\service\AIMatchingService.java
