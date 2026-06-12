@@ -1,4 +1,4 @@
-# BenchIQ � AI-Powered Bench Management System
+# BenchIQ  AI-Powered Bench Management System
 
 ## Problem Statement
 
@@ -12,11 +12,11 @@ In IT service companies, employees are frequently placed "on the bench" � mean
 
 BenchIQ is a full-stack web application that helps IT managers:
 
-1. **Track benched employees** � See all employees currently on the bench, their skills, experience, and how long they have been unallocated.
-2. **Manage open projects** � View all projects that need staffing, along with required skills and experience level.
-3. **AI-powered matching** � Automatically find the best-fit employees for any open project based on skill overlap and experience.
-4. **Auto-allocation** � Instantly allocate the best matching employee to a project with one click.
-5. **Bench alerts** � Get notified about employees who have been on the bench too long, helping prevent talent underutilization.
+1. **Track benched employees**  See all employees currently on the bench, their skills, experience, and how long they have been unallocated.
+2. **Manage open projects**  View all projects that need staffing, along with required skills and experience level.
+3. **AI-powered matching** Automatically find the best-fit employees for any open project based on skill overlap and experience.
+4. **Auto-allocation**  Instantly allocate the best matching employee to a project with one click.
+5. **Bench alerts**  Get notified about employees who have been on the bench too long, helping prevent talent underutilization.
 
 ---
 
@@ -79,8 +79,8 @@ BenchIQ is a full-stack web application that helps IT managers:
 ## Features
 
 - Dashboard overview with total employees, benched count, allocated count, and open projects
-- Full employee management � add, view, and track bench status
-- Full project management � add and track open projects
+- Full employee management  add, view, and track bench status
+- Full project management add and track open projects
 - AI matching engine that scores employees against project requirements
 - One-click auto-allocation of the best fit employee
 - Bench alert system for long-bench employees
@@ -119,12 +119,12 @@ Employees are ranked by score and the highest scoring candidate is recommended o
 src/
   main/
     java/com/benchsystem/benchmanager/
-      controller/   � REST API controllers
-      model/        � Employee, Project, Allocation entities
-      repository/   � JPA repositories
-      service/      � AI matching logic
+      controller/    REST API controllers
+      model/         Employee, Project, Allocation entities
+      repository/    JPA repositories
+      service/       AI matching logic
     resources/
-      static/       � Frontend dashboard (HTML/CSS/JS)
+      static/        Frontend dashboard (HTML/CSS/JS)
       application.properties
 \\\
 
