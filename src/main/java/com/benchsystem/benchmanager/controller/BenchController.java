@@ -60,4 +60,8 @@ public class BenchController {
     public List<Map<String, Object>> benchAlerts() {
         return aiService.getBenchAlerts();
     }
+    @DeleteMapping("/projects/{id}")
+public void deleteProject(@PathVariable Long id) {
+    projectRepo.deleteById(id);
+}
 }
