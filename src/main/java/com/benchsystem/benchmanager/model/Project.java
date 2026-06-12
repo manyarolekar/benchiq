@@ -14,7 +14,7 @@ public class Project {
     private String clientName;
     private String requiredSkills;
     private int requiredExperience;
-    private String status;
+   private String status = "OPEN";
 
     public Project() {}
 
